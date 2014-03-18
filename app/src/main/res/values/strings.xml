@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Waze Radar Tweak</string>
+    <string name="action_settings">Settings</string>
+    <string name="warning_message">Warning: please enable radars only if the country where you\'re driving allows precise geo-coordinates notifications (forbidden in France) to avoid legal issues.\n\nThis application is useful when crossing the border of countries with different reglementation.</string>
+    <string name="enable_radars">Enable Radars in Waze</string>
+    <string name="disable_radars">Disable Radars in Waze</string>
+    <string name="exit_button">Exit</string>
+
+</resources>

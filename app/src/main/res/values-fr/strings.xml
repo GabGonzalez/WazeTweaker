@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Waze Radar Tweak</string>
+    <string name="action_settings">Parametres</string>
+    <string name="warning_message">Attention : Veuillez n'activez la géo-localisation des radars que si la legislation de votre pays vous l'autorise (Interdit en france), ce afin d\'eviter toute poursuite pénale. Cette applications et utile lorsque vous voyagez vers d'autre pays avec des reglementation differentes.</string>
+    <string name="enable_radars">Activer les radars dans Waze</string>
+    <string name="disable_radars">Desactiver les radars dans waze</string>
+    <string name="exit_button">Quitter</string>
+
+</resources>

@@ -13,7 +13,7 @@ import java.io.IOException;
 import android.os.Environment;
 
 /**
- * @author nicolas
+ * @author Nicolas, Gabriel
  * 
  */
 public class WazeRadarSettings {
